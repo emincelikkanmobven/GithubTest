@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         print("This is the first test to push a project to the GitHub")
+        
+        
+        
+        print("project pushed to github successfully.")
     }
 
 
